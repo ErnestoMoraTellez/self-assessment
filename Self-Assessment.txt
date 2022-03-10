@@ -1,0 +1,22 @@
+#Self-Assessment
+
+My role in the project was to develop machine learning and to process the data that we get.
+One challenge was to implement all the knowledge and extra research to the project. 
+I think the difficult part was to process the data. To manupulate and change the information so that we can use it.
+So, what I did was to look again to the programs that were already made and also to search responses on Internet.
+
+#Team Assessment
+What we do, was to separate the activities. We communicate a lot to select what to do, how to do it and the responsable.
+I think that one strenght was that we know how to research. So we can support in many topics.
+One tip could be to take some time at the begining to discuss the knowledge of every member, and then assign topics.
+
+#Summary of Project
+Presents a cohesive, three- to four-sentence
+summary of the project that could be used on a
+LinkedIn profile, in an interview or cover letter, or
+as an elevator pitch, including all of the following:
+✓ Topic addressed
+✓ Machine module used
+✓ Results of the analysis 
+For the project we what to create a model of prediction to approve credit cards. We decide to use some database from kaggle and to use python to manage analysis.
+We use neuronal networks for the model. And we create a model that is able to predict if the customer has a high risk for the bank or not.
